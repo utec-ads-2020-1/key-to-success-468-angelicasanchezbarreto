@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Key_to_Success_468.dir/main.cpp.o  -o Key_to_Success_468 

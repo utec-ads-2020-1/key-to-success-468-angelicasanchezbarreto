@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lica-pc/CLionProjects/ALGORITMOS/UVa/Key_to_Success_468/main.cpp
+iostream
+-
+vector
+-
+map
+-
+algorithm
+-
+
